@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Informasi Gunung</string>
+    <string-array name="mountain_name">
+
+    </string-array>
+
+</resources>
